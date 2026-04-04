@@ -1,6 +1,10 @@
 <h1 align="center">Author: ZOXSEM</h1>
 <h2 align="center">Windows System Automation Suite</h2>
 
+
+> *This tool is for educational and administrative purposes only. The author is not responsible for any misuse.*
+
+
 This repository provides advanced PowerShell solutions for automated system maintenance and network configuration management. The toolkit focuses on high performance system optimization and secure retrieval of network proxy assets through automated parsing.
 
 
